@@ -21,32 +21,49 @@
 ### Week 1 -- Intro & New Tools
   * VS Code
   * Code repository & Github
+  * HTML/CSS/JS
 
-### Week 2 -- Physics
+### Week 2 -- Physics - Vector / Force
+ * [Robert Hodgin](http://roberthodgin.com/)
+ * [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
+ * Vector (Class)
+  * Vector vs Point
+  * [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
+ * [Force = Acceleration x Mass](https://editor.p5js.org/jinsung/sketches/K_1gJXsf_)
+ * [Gravity](https://editor.p5js.org/jinsung/sketches/L7CliUcrQ)
+ * [Friction](https://editor.p5js.org/jinsung/sketches/K_1gJXsf_)
+ * [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
 
-### Week 4 -- Particle System 1
+### Week 3 -- Particle System 1
+ * [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
+ * [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
+ * [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
+ * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
 
-### Week 5 -- Physic Homework presentation | Phsics Engine
-  * Matter.js
+### Week 4 -- Phsics Engine
+ * [Matter.js](https://brm.io/matter-js/)
+ * Physic homework
 
-### Week 6 -- ML Basic 
+### Week 5 -- ML Basic 
   * Teachable Machine
 
-### Week 7 -- Pre-trained Model 
+### Week 6 -- Pre-trained Model 
   * ML5
     
-### Week 8 -- Traning Model
+### Week 7 -- Traning Model
   * Tensorflow.js
 
-### Week 9 -- ML Homework presentation
+### Week 8 -- ML Stable Diffusion
+  * https://stability.ai/
 
-### Week 10 -- WebGL & 3D Basics
+### Week 9 -- TBD
   * three.js
-  * Camera, Scene, Renderer
 
-### Week 11 -- 3D Model and animation 
+### Week 10 -- TBD
 
-### Week 12 -- 3D Homework presentation | GL Shader
+### Week 11 -- TBD
+
+### Week 12 -- TBD
 
 ### Week 13 -- 1:1
 
