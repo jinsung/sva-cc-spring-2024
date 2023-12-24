@@ -21,9 +21,10 @@
 ### Week 1 -- New Tools & HTML/CSS basic
   * Code editor
   * HTML Basic
-   * Creating & manipulating HTML elements
-   * Events
-   * Basic CSS
+    * Document Object Model
+    * Creating & manipulating HTML elements
+    * Events
+  * Basic CSS
 
 ### Week # -- Utilities and Libraries
  * JSON (Javascript Object Notation)
@@ -37,6 +38,7 @@
 ### Week # -- Server side programming
  * Node Socket Server
  * Web Service
+ * Getting your ip (ipconfig getifaddr en0)
 
 ### Week 2 -- Physics - Vector / Force
  * [Robert Hodgin](http://roberthodgin.com/)
