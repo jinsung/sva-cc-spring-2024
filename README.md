@@ -18,10 +18,25 @@
 
 ## SYLLABUS
 
-### Week 1 -- Intro & New Tools
-  * VS Code
-  * Code repository & Github
-  * HTML/CSS/JS
+### Week 1 -- New Tools & HTML/CSS basic
+  * Code editor
+  * HTML Basic
+   * Creating & manipulating HTML elements
+   * Events
+   * Basic CSS
+
+### Week # -- Utilities and Libraries
+ * JSON (Javascript Object Notation)
+  * Javascript Object
+ * Library
+  * OOP Interitance
+  * Base button class
+  * Node & NPM
+ * Code repository & Github
+
+### Week # -- Server side programming
+ * Node Socket Server
+ * Web Service
 
 ### Week 2 -- Physics - Vector / Force
  * [Robert Hodgin](http://roberthodgin.com/)
@@ -43,6 +58,14 @@
 ### Week 4 -- Phsics Engine
  * [Matter.js](https://brm.io/matter-js/)
  * Physic homework
+
+### Week # -- Work Setup
+ * OSX history with Unix FreeBSD 
+ * [Terminal](https://github.com/0nn0/terminal-mac-cheatsheet?tab=readme-ov-file#english-version)
+ * Web Server / Cloud & Web Service
+
+### Week # -- Server side programming 
+ * Node / NVM / NPM
 
 ### Week 5 -- ML Basic 
   * Teachable Machine
