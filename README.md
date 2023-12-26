@@ -24,6 +24,7 @@ This course explores computer programming as a tool for visual communication and
 ### Week 1 -- New Tools & HTML/CSS basic
 
 - Code editor
+- Version control & Github
 - HTML Basic
   - Document Object Model
   - Creating & manipulating HTML elements
@@ -38,7 +39,6 @@ This course explores computer programming as a tool for visual communication and
   - OOP Interitance
   - Base button class
   - Node & NPM
-- Code repository & Github
 
 ### Week # -- Server side programming
 
