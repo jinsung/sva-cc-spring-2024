@@ -23,8 +23,15 @@ This course explores computer programming as a tool for visual communication and
 
 ### Week 1 -- New Tools & HTML/CSS basic
 
+- Inspiration Sharing
 - Code editor
-- Version control & Github
+  - VS Code
+- Version control
+  - Git & Github
+  - Signup on github.com
+  - Create a new repository
+  - Commit, push, and pull
+  - History of changes
 - HTML Basic
   - Document Object Model
   - Creating & manipulating HTML elements

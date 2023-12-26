@@ -1,6 +1,6 @@
 let canvas;
 function setup() {
-  canvas = createCanvas(500, 500);
+  canvas = createCanvas(200, 200);
   
   createP("paragraph from p5");
   createDiv("div from p5");
@@ -10,4 +10,6 @@ function setup() {
 
 function draw() {
   background(180);
+
+  circle(width/2, height/2, 30);
 }
