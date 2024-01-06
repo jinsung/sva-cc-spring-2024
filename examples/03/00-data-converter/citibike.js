@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import {parse} from 'csv';
 
+// getting file from https://s3.amazonaws.com/tripdata/index.html
 const tripCSVFilePath = '../data/202311-citibike-tripdata.csv';
 const tripDate = '2023-11-06';
 
