@@ -102,4 +102,3 @@ dist
 
 # TernJS port file
 .tern-port
-examples/03/data/202311-citibike-tripdata.csv
