@@ -1,7 +1,0 @@
-things to learn
-
-git
-github
-html
-css
-javascript

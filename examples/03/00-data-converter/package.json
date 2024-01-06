@@ -1,0 +1,18 @@
+{
+  "name": "00-data-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "citibike.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node citibike.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.3.6",
+    "dotenv": "^16.3.1"
+  }
+}
