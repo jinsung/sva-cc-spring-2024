@@ -7,7 +7,7 @@
 
 ## DESCRIPTION
 
-Building on the foundational knowledge gained in the first course, this second course will focus on programming techniques for generative design and digital interactions. The class will introduce mathematical principles that underlie our physical world to create natural simulation in the digital world. Additionally, we will examine various emerging techniques to understand how technologies create innovation in computer and human interactions. 
+Building on the foundational knowledge gained in the first course, this second course will focus on programming techniques for generative design and digital interactions. The class will introduce mathematical principles that underlie our physical world to create natural simulation in the digital world. Additionally, we will examine various emerging techniques to understand how technologies create innovation in computer and human interactions.
 
 ## RESOURCES
 
