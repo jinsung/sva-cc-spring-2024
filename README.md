@@ -38,13 +38,15 @@ Building on the foundational knowledge gained in the first course, this second c
   - VS Code
   - extensions: live preview, p5.vscode
 - Version control
+  - What is the version control system?
   - Git & Github
-  - Signup on github.com
-  - Create a new repository
-  - Commit, push, and pull
-  - History of changes
+    - Signup on github.com
+    - Create a new repository
+  - Git workflow
+    - Commit, push, and pull
+    - History of changes
 
-### Week # -- HTML/CSS basic
+### Week 2 -- HTML/CSS basic
 
 - [Aaron Koblin](https://www.aaronkoblin.com/)
 - HTML Basic
@@ -62,7 +64,7 @@ Building on the foundational knowledge gained in the first course, this second c
   - main and parant
   - Assignment: Create an interactive p5.js background for your webpage
 
-### Week # -- Retreive Data
+### Week 3 -- Retreive Data
 
 - [How crowded are the oceans?](https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil)
 - Arrow function expression
@@ -78,7 +80,7 @@ Building on the foundational knowledge gained in the first course, this second c
 - citibike [data](https://citibikenyc.com/system-data)
 - Assignment: Data Viz
 
-### Week # -- Server side programming
+### Week 4 -- Server side programming
 
 - Node Socket Server
 - Web Service
@@ -86,14 +88,14 @@ Building on the foundational knowledge gained in the first course, this second c
 - Promise, then, async, and await
 - Fetch function
 
-### Week # -- Library
+### Week 5 -- Library
 
 - Library
   - OOP Interitance
   - Base button class
   - Node & NPM
 
-### Week # -- Physics - Vector / Force
+### Week 6 -- Physics - Vector / Force
 
 - [Robert Hodgin](http://roberthodgin.com/)
 - [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
@@ -102,53 +104,33 @@ Building on the foundational knowledge gained in the first course, this second c
 - [Friction](https://editor.p5js.org/jinsung/sketches/K_1gJXsf_)
 - [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
 
-### Week # -- Particle System 1
+### Week 7 -- Particle System 1
 
 - [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
 - [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
 - [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
 - [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
 
-### Week # -- Phsics Engine
+### Week 8 -- Phsics Engine
 
 - [Matter.js](https://brm.io/matter-js/)
 - Physic homework
 
-### Week -- Work Setup
-
-- OSX history with Unix FreeBSD 
-- [Terminal](https://github.com/0nn0/terminal-mac-cheatsheet?tab=readme-ov-file#english-version)
-- Web Server / Cloud & Web Service
-
-### Week -- Server side programming
-
-- Node / NVM / NPM
-
-### Week 5 -- ML Basic
+### Week 9 -- ML Basic
 
 - Teachable Machine
 
-### Week 6 -- Pre-trained Model
+### Week 10 -- Pre-trained Model
 
 - ML5
 
-### Week 7 -- Traning Model
+### Week 11 -- Traning Model
 
 - Tensorflow.js
 
-### Week 8 -- ML Stable Diffusion
+### Week 12 -- TBD
 
 - https://stability.ai/
-
-### Week 9 -- TBD
-
-- three.js
-
-### Week 10 -- TBD
-
-### Week 11 -- TBD
-
-### Week 12 -- TBD
 
 ### Week 13 -- 1:1
 
