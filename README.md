@@ -28,6 +28,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Github](https://github.com/)
+- [P5JS Editor](https://editor.p5js.org/)
 
 ## SYLLABUS
 
