@@ -27,6 +27,7 @@ Building on the foundational knowledge gained in the first course, this second c
 ## TOOLS
 
 - [Visual Studio Code](https://code.visualstudio.com/)
+- Terminal
 - [Github](https://github.com/)
 - [P5JS Editor](https://editor.p5js.org/)
 
@@ -38,13 +39,18 @@ Building on the foundational knowledge gained in the first course, this second c
 - Code editor
   - VS Code
   - extensions: live preview, p5.vscode
+- Terminal
+  - /Applications/Utilities/Terminal
+  - cd, ls, mv, mkdir, pwd, clear, cp, and open
+  - tab for autoComplite
+  - up down arrow keys for your command history
 - Version control
   - What is the version control system?
   - Git & Github
     - Signup on github.com
     - Create a new repository
   - Git workflow
-    - Commit, push, and pull
+    - Clon, Commit, Push, Pull, and Pull Request
     - History of changes
 
 ### Week 2 -- HTML/CSS basic
