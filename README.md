@@ -45,8 +45,16 @@ Building on the foundational knowledge gained in the first course, this second c
   - tab for autoComplite
   - up down arrow keys for your command history
 - Version control
-  - What is the version control system?
-  - Git & Github
+  - What is version control?
+    - Tracking changes
+    - Collaboration
+    - Restoring previous work
+  - Git
+    - [Setup](https://docs.github.com/en/get-started/quickstart/set-up-git)
+      - [Download](https://git-scm.com/downloads)
+      - git config --global user.email "YOUR_EMAIL"
+      - git init, git add, git commit, git status, git log, git remote, git pull, and git push
+  - Github
     - Signup on github.com
     - Create a new repository
   - Git workflow
