@@ -145,7 +145,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 12 -- TBD
 
-- https://stability.ai/
+- [stability.ai](https://stability.ai/)
 
 ### Week 13 -- 1:1
 
