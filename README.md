@@ -65,6 +65,7 @@ Building on the foundational knowledge gained in the first course, this second c
 ### Week 2 -- HTML/CSS basic
 
 - [Aaron Koblin](https://www.aaronkoblin.com/)
+- Setup your workspace with the git repository
 - HTML Basic
   - Document Object Model
   - script tag
