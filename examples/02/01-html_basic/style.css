@@ -1,3 +1,31 @@
 body {
-  
+  background: #fee;
+  font-family: Arial, Helvetica, sans-serif;
 }
+
+.rounded {
+  border-radius: 10px;
+}
+
+.list {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.list .item {
+  color: red;
+}
+
+.item {
+  color: green;
+}
+
+li {
+  color: black;
+}
+
+#first-item {
+  color: blue;
+}
+
+
+

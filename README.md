@@ -30,6 +30,7 @@ Building on the foundational knowledge gained in the first course, this second c
 - Terminal
 - [Github](https://github.com/)
 - [P5JS Editor](https://editor.p5js.org/)
+- [Node.js](https://nodejs.org/en)
 
 ## SYLLABUS
 
@@ -78,6 +79,12 @@ Building on the foundational knowledge gained in the first course, this second c
   - manipulating HTML elements
   - main and parant
   - Assignment: Create an interactive p5.js background for your webpage
+- Node and NPM
+  - Install node
+  - What is Node.js
+  - Server side programming
+  - WebSocket
+  - Client communication using socket server
 
 ### Week 3 -- Retreive Data
 
