@@ -88,7 +88,7 @@ Building on the foundational knowledge gained in the first course, this second c
   - Client communication using socket server
 
 ### Week 3 -- Retreive Data
-
+- Presenters: Mina, Inwoo
 - [How crowded are the oceans?](https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil)
 - Arrow function expression
 - More of Array
