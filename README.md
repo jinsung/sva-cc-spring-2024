@@ -82,7 +82,7 @@ Building on the foundational knowledge gained in the first course, this second c
   - Assignment: Create an interactive p5.js background for your webpage
 
 
-### Week 3 -- Retreive Data
+### Week 3 -- Server side programming with WebSocket | ECMAScript6 features
 - Presenters: Mina, Inwoo
 - [How crowded are the oceans?](https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil)
 - Node and NPM
@@ -99,21 +99,14 @@ Building on the foundational knowledge gained in the first course, this second c
   - [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
 - Promise, then, async, and await
 
-### Week 4 -- Server side programming
+### Week 4 -- Data Visualization with Citibike data
 
 - Data file format (JSON, CSV)
   - citibike [data](https://s3.amazonaws.com/tripdata/index.html)
-- Node.js
-  - NPM, package.json
 - citibike [data](https://citibikenyc.com/system-data)
 - Assignment: Data Viz
 
-### Week 5 -- Library
-
-- Library
-  - OOP Interitance
-  - Base button class
-  - Node & NPM
+### Week 5 -- 
 
 ### Week 6 -- Physics - Vector / Force
 
