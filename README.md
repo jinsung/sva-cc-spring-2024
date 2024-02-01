@@ -40,6 +40,8 @@ Building on the foundational knowledge gained in the first course, this second c
 - Code editor
   - VS Code
   - extensions: live preview, p5.vscode
+  - Settings
+    - disable : Editor:Accept suggestion on commit character
 - Terminal
   - /Applications/Utilities/Terminal
   - cd, ls, mv, mkdir, pwd, clear, cp, and open
@@ -84,13 +86,12 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 3 -- Server side programming with WebSocket | ECMAScript6 features
 - Presenters: Mina, Inwoo
-- [How crowded are the oceans?](https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil)
 - Node and NPM
   - Install node
-  - What is Node.js
+  - [What is Node.js](https://nodejs.org/en/about)
+    - Javascript [run time environment](https://stackoverflow.com/questions/3710130/what-is-run-time-environment)
   - Server side programming
-  - WebSocket
-  - Client communication using socket server
+  - [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
 - Arrow function expression
 - More of Array
   - forEach(), sort(), find() etc.
