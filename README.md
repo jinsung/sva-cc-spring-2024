@@ -83,8 +83,8 @@ Building on the foundational knowledge gained in the first course, this second c
   - main and parant
   - Assignment: Create an interactive p5.js background for your webpage
 
+### Week 3 -- Server side programming with WebSocket
 
-### Week 3 -- Server side programming with WebSocket | ECMAScript6 features
 - Presenters: Mina, Inwoo
 - Node and NPM
   - Install node
@@ -92,22 +92,23 @@ Building on the foundational knowledge gained in the first course, this second c
     - Javascript [run time environment](https://stackoverflow.com/questions/3710130/what-is-run-time-environment)
   - Server side programming
   - [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
+
+### Week 4 -- ECMAScript6 features 
+
 - Arrow function expression
 - More of Array
   - forEach(), sort(), find() etc.
+- Promise, then, async, and await
 - Vector
   - Vector vs Point
   - [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
-- Promise, then, async, and await
 
-### Week 4 -- Data Visualization with Citibike data
+### Week 5 -- Data Visualization with Citibike data
 
 - Data file format (JSON, CSV)
   - citibike [data](https://s3.amazonaws.com/tripdata/index.html)
 - citibike [data](https://citibikenyc.com/system-data)
 - Assignment: Data Viz
-
-### Week 5 -- 
 
 ### Week 6 -- Physics - Vector / Force
 
