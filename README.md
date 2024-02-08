@@ -106,6 +106,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 5 -- Data Visualization with Citibike data
 
+- Presenters: Joe and Heesoo
 - Data file format (JSON, CSV)
   - citibike [data](https://s3.amazonaws.com/tripdata/index.html)
 - citibike [data](https://citibikenyc.com/system-data)
