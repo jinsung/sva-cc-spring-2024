@@ -95,10 +95,11 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 4 -- ECMAScript6 features 
 
+- What is JSON?
 - Arrow function expression
-- More of Array
-  - forEach(), sort(), find() etc.
 - Promise, then, async, and await
+- More of Array
+  - forEach(), sort(), filter(), map() etc.
 - Vector
   - Vector vs Point
   - [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
