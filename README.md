@@ -95,6 +95,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 4 -- ECMAScript6 features 
 
+- [Free APIs](https://free-apis.github.io/#/categories)
 - What is JSON?
 - Arrow function expression
 - Promise, then, async, and await
