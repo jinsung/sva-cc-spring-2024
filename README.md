@@ -109,7 +109,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 - Presenters:
   - Joe's [inspo](https://nahuelgerth.de/lab/typelabs)
-  - Heesoo
+  - Heesoo's inspo [1](https://experiments.withgoogle.com/) [2](https://www.creativeapplications.net/python/the-case-for-a-small-language-model-generative-ai-and-authorship/)
 - [Try/Catch block](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
 - [Spread operator](https://fjolt.com/article/javascript-three-dots-spread-operator)
 - Data file format (JSON, CSV)
