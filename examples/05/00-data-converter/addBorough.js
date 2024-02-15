@@ -1,16 +1,13 @@
-import * as fs from 'fs';
+import { promises as fs } from 'fs';
 import 'dotenv/config'
 
 const tripDate = '2023-11-06';
 const tripsJson = `../data/${tripDate}.json`;
 const gcp_api_key = process.env.GCP_API_KEY;
 
-function main() {
-  fs.readFile(tripsJson, async (err, fileData) => {
-    if (err) {
-      console.log('error:', err);
-    }
-
+async function main() {
+  try {
+    const fileData = fs.readFile(tripsJson);
     const trips = JSON.parse(fileData);
     await Promise.all(trips.stations.map(async s => {
       const lat = s.lat;
@@ -19,18 +16,16 @@ function main() {
       s.borough = borough;
     }));
     writeStationJsonFile(trips);
-  });
+  } catch (err) {
+    console.log('error:', err);
+  }
 }
 
-function writeStationJsonFile(jsonData) {
+async function writeStationJsonFile(jsonData) {
   const stationsJsonStr = JSON.stringify(jsonData);
-  fs.writeFile('../data/'+tripDate+'-borough.json', stationsJsonStr, 'utf8', (things) => {
-    onJsonWrote();
-  });
-}
-
-function onJsonWrote() {
-  console.log('json wrote: ');
+  const filePath = '../data/'+tripDate+'-borough.json';
+  await fs.writeFile(filePath, stationsJsonStr, 'utf8');
+  console.log('json wrote at ', filePath);
 }
 
 async function getBorough(s_lat, s_lng) {

@@ -102,7 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
-<<<<<<< HEAD
-examples/03/data/*.csv
-=======
->>>>>>> 018e697568dba4bd85ced41bf822f29bec10470e
+./.git/objects/pack/pack-090a1c6c37a1620a01c0779c6393b37bbc00cf5f.pack
+
+secret.json
+examples/05/data/202311-citibike-tripdata.csv

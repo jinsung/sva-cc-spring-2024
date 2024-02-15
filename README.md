@@ -106,9 +106,12 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 5 -- Data Visualization with Citibike data
 
+- [Try/Catch block](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
+- [Spread operator](https://fjolt.com/article/javascript-three-dots-spread-operator)
 - Data file format (JSON, CSV)
   - citibike [data](https://s3.amazonaws.com/tripdata/index.html)
 - citibike [data](https://citibikenyc.com/system-data)
+- [football data api](https://rapidapi.com/api-sports/api/api-football)
 - Assignment: Data Viz
 
 ### Week 6 -- Physics - Vector / Force

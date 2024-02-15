@@ -1,0 +1,5319 @@
+{
+    "get": "players",
+    "parameters": {
+        "team": "46",
+        "season": "2020"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 1,
+        "total": 3
+    },
+    "response": [
+        {
+            "player": {
+                "id": 2778,
+                "name": "K. Ịheanachọ",
+                "firstname": "Kelechi Promise",
+                "lastname": "Ịheanachọ",
+                "age": 28,
+                "birth": {
+                    "date": "1996-10-03",
+                    "place": "Owerri",
+                    "country": "Nigeria"
+                },
+                "nationality": "Nigeria",
+                "height": "185 cm",
+                "weight": "82 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/2778.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 16,
+                        "minutes": 1456,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.072727",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 9,
+                        "out": 6,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 39,
+                        "on": 25
+                    },
+                    "goals": {
+                        "total": 12,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 504,
+                        "key": 28,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 12,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 182,
+                        "won": 64
+                    },
+                    "dribbles": {
+                        "attempts": 44,
+                        "success": 32,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 13,
+                        "committed": 26
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 1,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 48,
+                        "name": "League Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/48.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 16,
+                        "key": 1,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 3,
+                        "minutes": 297,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.883333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 1,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 4,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 94,
+                        "key": 6,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 60,
+                        "won": 13
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 5,
+                        "minutes": 414,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.328571",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 4,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 113,
+                        "key": 14,
+                        "accuracy": 12
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 53,
+                        "won": 19
+                    },
+                    "dribbles": {
+                        "attempts": 11,
+                        "success": 10,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 3,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2920,
+                "name": "T. Castagne",
+                "firstname": "Timothy",
+                "lastname": "Castagne",
+                "age": 29,
+                "birth": {
+                    "date": "1995-12-05",
+                    "place": "Arlon",
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "185 cm",
+                "weight": "80 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/2920.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 27,
+                        "lineups": 27,
+                        "minutes": 2346,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.881481",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 2,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 3,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1325,
+                        "key": 22,
+                        "accuracy": 41
+                    },
+                    "tackles": {
+                        "total": 52,
+                        "blocks": 5,
+                        "interceptions": 29
+                    },
+                    "duels": {
+                        "total": 224,
+                        "won": 117
+                    },
+                    "dribbles": {
+                        "attempts": 24,
+                        "success": 11,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 14,
+                        "committed": 20
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 4,
+                        "minutes": 381,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 217,
+                        "key": 3,
+                        "accuracy": 34
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 35,
+                        "won": 22
+                    },
+                    "dribbles": {
+                        "attempts": 5,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 48,
+                        "name": "League Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/48.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 1,
+                        "minutes": 111,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.050000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 49,
+                        "key": 2,
+                        "accuracy": 22
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 15,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 2926,
+                "name": "Y. Tielemans",
+                "firstname": "Youri Marion A.",
+                "lastname": "Tielemans",
+                "age": 27,
+                "birth": {
+                    "date": "1997-05-07",
+                    "place": "Ukkel",
+                    "country": "Belgium"
+                },
+                "nationality": "Belgium",
+                "height": "176 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/2926.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 38,
+                        "lineups": 37,
+                        "minutes": 3358,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.150000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 33,
+                        "on": 20
+                    },
+                    "goals": {
+                        "total": 6,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2480,
+                        "key": 52,
+                        "accuracy": 53
+                    },
+                    "tackles": {
+                        "total": 86,
+                        "blocks": 8,
+                        "interceptions": 46
+                    },
+                    "duels": {
+                        "total": 401,
+                        "won": 217
+                    },
+                    "dribbles": {
+                        "attempts": 64,
+                        "success": 43,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 54,
+                        "committed": 37
+                    },
+                    "cards": {
+                        "yellow": 6,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 2,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 48,
+                        "name": "League Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/48.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 6,
+                        "minutes": 540,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.583333",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 370,
+                        "key": 10,
+                        "accuracy": 51
+                    },
+                    "tackles": {
+                        "total": 13,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 62,
+                        "won": 33
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 4,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 10
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 1,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 7,
+                        "lineups": 6,
+                        "minutes": 539,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.714285",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 3,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 336,
+                        "key": 6,
+                        "accuracy": 39
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": 2,
+                        "interceptions": 7
+                    },
+                    "duels": {
+                        "total": 47,
+                        "won": 21
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18770,
+                "name": "E. Jakupović",
+                "firstname": "Eldin",
+                "lastname": "Jakupović",
+                "age": 39,
+                "birth": {
+                    "date": "1984-10-02",
+                    "place": "Kozarac",
+                    "country": "Bosnia and Herzegovina"
+                },
+                "nationality": "Switzerland",
+                "height": "191 cm",
+                "weight": "85 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/18770.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 48,
+                        "name": "League Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/48.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Goalkeeper",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 8
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18772,
+                "name": "J. Evans",
+                "firstname": "Jonathan Grant",
+                "lastname": "Evans",
+                "age": 36,
+                "birth": {
+                    "date": "1988-01-03",
+                    "place": "Belfast",
+                    "country": "Northern Ireland"
+                },
+                "nationality": "Northern Ireland",
+                "height": "188 cm",
+                "weight": "77 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/18772.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 28,
+                        "minutes": 2476,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.985714",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 3,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 8,
+                        "on": 3
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 2,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1847,
+                        "key": 10,
+                        "accuracy": 56
+                    },
+                    "tackles": {
+                        "total": 25,
+                        "blocks": 3,
+                        "interceptions": 46
+                    },
+                    "duels": {
+                        "total": 201,
+                        "won": 137
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 12,
+                        "committed": 18
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 4,
+                        "minutes": 304,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.825000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 226,
+                        "key": null,
+                        "accuracy": 47
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 3,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 30,
+                        "won": 18
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 48,
+                        "name": "League Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/48.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 5,
+                        "minutes": 442,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.960000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 372,
+                        "key": 3,
+                        "accuracy": 64
+                    },
+                    "tackles": {
+                        "total": 6,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 42,
+                        "won": 27
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18773,
+                "name": "C. Fuchs",
+                "firstname": "Christian",
+                "lastname": "Fuchs",
+                "age": 37,
+                "birth": {
+                    "date": "1986-04-07",
+                    "place": "Neunkirchen",
+                    "country": "Austria"
+                },
+                "nationality": "Austria",
+                "height": "187 cm",
+                "weight": "89 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/18773.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 9,
+                        "lineups": 8,
+                        "minutes": 702,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.844444",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 21
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 522,
+                        "key": 1,
+                        "accuracy": 47
+                    },
+                    "tackles": {
+                        "total": 18,
+                        "blocks": 4,
+                        "interceptions": 15
+                    },
+                    "duels": {
+                        "total": 79,
+                        "won": 42
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": 14
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 48,
+                        "name": "League Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/48.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 79,
+                        "key": null,
+                        "accuracy": 71
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 7,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 15,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 22,
+                        "key": null,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 4,
+                        "minutes": 306,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.760000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 2,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 193,
+                        "key": 1,
+                        "accuracy": 32
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": 1,
+                        "interceptions": 5
+                    },
+                    "duels": {
+                        "total": 14,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18774,
+                "name": "W. Morgan",
+                "firstname": "Wes",
+                "lastname": "Morgan",
+                "age": 37,
+                "birth": {
+                    "date": "1984-01-21",
+                    "place": "Nottingham",
+                    "country": "England"
+                },
+                "nationality": "Jamaica",
+                "height": "186 cm",
+                "weight": "101 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/18774.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 3,
+                        "lineups": 0,
+                        "minutes": 15,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.450000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 13
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 5,
+                        "key": null,
+                        "accuracy": 2
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 8,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": 1
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 48,
+                        "name": "League Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/48.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 58,
+                        "key": 1,
+                        "accuracy": 52
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": 1,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 5,
+                        "lineups": 2,
+                        "minutes": 191,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.740000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 1,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 98,
+                        "key": null,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 16,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18778,
+                "name": "H. Barnes",
+                "firstname": "Harvey Lewis",
+                "lastname": "Barnes",
+                "age": 27,
+                "birth": {
+                    "date": "1997-12-09",
+                    "place": "Burnley",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "174 cm",
+                "weight": "66 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/18778.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 22,
+                        "minutes": 1949,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.844000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 7,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": 40,
+                        "on": 26
+                    },
+                    "goals": {
+                        "total": 9,
+                        "conceded": 0,
+                        "assists": 4,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 605,
+                        "key": 26,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 19,
+                        "blocks": 3,
+                        "interceptions": 8
+                    },
+                    "duels": {
+                        "total": 261,
+                        "won": 116
+                    },
+                    "dribbles": {
+                        "attempts": 89,
+                        "success": 40,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 33,
+                        "committed": 16
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 2,
+                        "minutes": 172,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.250000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 6,
+                        "on": 4
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 61,
+                        "key": 2,
+                        "accuracy": 23
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 17,
+                        "won": 11
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 48,
+                        "name": "League Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/48.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 8,
+                        "lineups": 5,
+                        "minutes": 485,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.112500",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 1,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 12,
+                        "on": 6
+                    },
+                    "goals": {
+                        "total": 3,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 188,
+                        "key": 10,
+                        "accuracy": 16
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 72,
+                        "won": 36
+                    },
+                    "dribbles": {
+                        "attempts": 32,
+                        "success": 16,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 10,
+                        "committed": 6
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18781,
+                "name": "D. Gray",
+                "firstname": "Demarai Ramelle",
+                "lastname": "Gray",
+                "age": 28,
+                "birth": {
+                    "date": "1996-06-28",
+                    "place": "Birmingham",
+                    "country": "England"
+                },
+                "nationality": "Jamaica",
+                "height": "180 cm",
+                "weight": "74 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/18781.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 18,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 9,
+                        "key": null,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 48,
+                        "name": "League Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/48.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 20,
+                        "key": 1,
+                        "accuracy": 18
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 14,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.250000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 29,
+                        "key": 5,
+                        "accuracy": 10
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 17,
+                        "won": 12
+                    },
+                    "dribbles": {
+                        "attempts": 10,
+                        "success": 8,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18783,
+                "name": "Thakgalo Khanya Leshabela",
+                "firstname": "Thakgalo Khanya",
+                "lastname": "Leshabela",
+                "age": 24,
+                "birth": {
+                    "date": "1999-09-18",
+                    "place": "Soshanguve",
+                    "country": "South Africa"
+                },
+                "nationality": "South Africa",
+                "height": "175 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/18783.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 9,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 5
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 7,
+                        "key": null,
+                        "accuracy": 6
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18784,
+                "name": "J. Maddison",
+                "firstname": "James Daniel",
+                "lastname": "Maddison",
+                "age": 28,
+                "birth": {
+                    "date": "1996-11-23",
+                    "place": "Coventry",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "175 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/18784.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 31,
+                        "lineups": 24,
+                        "minutes": 2104,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 7,
+                        "out": 13,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": 49,
+                        "on": 23
+                    },
+                    "goals": {
+                        "total": 8,
+                        "conceded": 0,
+                        "assists": 5,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1017,
+                        "key": 52,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 32,
+                        "blocks": 1,
+                        "interceptions": 9
+                    },
+                    "duels": {
+                        "total": 232,
+                        "won": 120
+                    },
+                    "dribbles": {
+                        "attempts": 51,
+                        "success": 29,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 57,
+                        "committed": 19
+                    },
+                    "cards": {
+                        "yellow": 4,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 48,
+                        "name": "League Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/48.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 72,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.200000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 4,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 29,
+                        "key": null,
+                        "accuracy": 24
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 12,
+                        "won": 8
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 5,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 1,
+                        "minutes": 162,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.275000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": 5,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 100,
+                        "key": 4,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 22,
+                        "won": 15
+                    },
+                    "dribbles": {
+                        "attempts": 7,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 6,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 4,
+                        "minutes": 346,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "7.700000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 3,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 11,
+                        "on": 5
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 155,
+                        "key": 12,
+                        "accuracy": 20
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 3
+                    },
+                    "duels": {
+                        "total": 51,
+                        "won": 32
+                    },
+                    "dribbles": {
+                        "attempts": 15,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 17,
+                        "committed": 7
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18785,
+                "name": "N. Mendy",
+                "firstname": "Nampalys",
+                "lastname": "Mendy",
+                "age": 32,
+                "birth": {
+                    "date": "1992-06-23",
+                    "place": "La Seyne-sur-Mer",
+                    "country": "France"
+                },
+                "nationality": "Senegal",
+                "height": "167 cm",
+                "weight": "73 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/18785.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 23,
+                        "lineups": 15,
+                        "minutes": 1457,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.650000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 8,
+                        "out": 6,
+                        "bench": 22
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 973,
+                        "key": 5,
+                        "accuracy": 40
+                    },
+                    "tackles": {
+                        "total": 26,
+                        "blocks": 1,
+                        "interceptions": 14
+                    },
+                    "duels": {
+                        "total": 134,
+                        "won": 69
+                    },
+                    "dribbles": {
+                        "attempts": 12,
+                        "success": 6,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 29,
+                        "committed": 21
+                    },
+                    "cards": {
+                        "yellow": 5,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 48,
+                        "name": "League Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/48.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 2,
+                        "lineups": 1,
+                        "minutes": 70,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.900000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 1,
+                        "bench": 4
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 40,
+                        "key": null,
+                        "accuracy": 19
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 1,
+                        "minutes": 175,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": "6.800000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 3,
+                        "out": 0,
+                        "bench": 7
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 117,
+                        "key": 1,
+                        "accuracy": 27
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 18,
+                        "won": 11
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 3
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 18906,
+                "name": "Ayoze Pérez",
+                "firstname": "Ayoze",
+                "lastname": "Pérez Gutiérrez",
+                "age": 31,
+                "birth": {
+                    "date": "1993-07-29",
+                    "place": "Santa Cruz de Tenerife",
+                    "country": "Spain"
+                },
+                "nationality": "Spain",
+                "height": "178 cm",
+                "weight": "72 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/18906.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 25,
+                        "lineups": 15,
+                        "minutes": 1332,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.688000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 10,
+                        "out": 10,
+                        "bench": 14
+                    },
+                    "shots": {
+                        "total": 18,
+                        "on": 13
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 470,
+                        "key": 24,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 32,
+                        "blocks": null,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 249,
+                        "won": 96
+                    },
+                    "dribbles": {
+                        "attempts": 59,
+                        "success": 29,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 23,
+                        "committed": 31
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 48,
+                        "name": "League Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/48.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 0,
+                        "minutes": 14,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 7,
+                        "key": 1,
+                        "accuracy": 7
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 6,
+                        "minutes": 457,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "7.016666",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 5,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 7,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 122,
+                        "key": 4,
+                        "accuracy": 15
+                    },
+                    "tackles": {
+                        "total": 10,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 64,
+                        "won": 32
+                    },
+                    "dribbles": {
+                        "attempts": 13,
+                        "success": 9,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 7,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 0,
+                        "minutes": 82,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": "6.525000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 4,
+                        "out": 0,
+                        "bench": 6
+                    },
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 23,
+                        "key": null,
+                        "accuracy": 4
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 12,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 19955,
+                "name": "J. Knight",
+                "firstname": "Josh",
+                "lastname": "Knight",
+                "age": 27,
+                "birth": {
+                    "date": "1997-09-07",
+                    "place": "Leicester",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "185 cm",
+                "weight": "78 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/19955.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 48,
+                        "name": "League Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/48.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.500000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 34,
+                        "key": 1,
+                        "accuracy": 8
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": 1,
+                        "interceptions": 4
+                    },
+                    "duels": {
+                        "total": 20,
+                        "won": 8
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 22094,
+                "name": "W. Fofana",
+                "firstname": "Wesley Tidjan",
+                "lastname": "Fofana",
+                "age": 24,
+                "birth": {
+                    "date": "2000-12-17",
+                    "place": null,
+                    "country": "France"
+                },
+                "nationality": "France",
+                "height": "190 cm",
+                "weight": "84 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/22094.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 28,
+                        "lineups": 27,
+                        "minutes": 2265,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.000000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 1,
+                        "out": 5,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 9,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1681,
+                        "key": 6,
+                        "accuracy": 51
+                    },
+                    "tackles": {
+                        "total": 51,
+                        "blocks": 16,
+                        "interceptions": 61
+                    },
+                    "duels": {
+                        "total": 313,
+                        "won": 183
+                    },
+                    "dribbles": {
+                        "attempts": 21,
+                        "success": 15,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 29,
+                        "committed": 37
+                    },
+                    "cards": {
+                        "yellow": 7,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 4,
+                        "lineups": 4,
+                        "minutes": 350,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "7.375000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 1,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 204,
+                        "key": null,
+                        "accuracy": 40
+                    },
+                    "tackles": {
+                        "total": 9,
+                        "blocks": 4,
+                        "interceptions": 16
+                    },
+                    "duels": {
+                        "total": 59,
+                        "won": 35
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 8
+                    },
+                    "cards": {
+                        "yellow": 2,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 6,
+                        "lineups": 4,
+                        "minutes": 468,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.950000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 2,
+                        "out": 1,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": 3,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 289,
+                        "key": 2,
+                        "accuracy": 40
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": 3,
+                        "interceptions": 10
+                    },
+                    "duels": {
+                        "total": 56,
+                        "won": 36
+                    },
+                    "dribbles": {
+                        "attempts": 6,
+                        "success": 5,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 8,
+                        "committed": 9
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 152971,
+                "name": "V. Campbell",
+                "firstname": "Vontae Jason",
+                "lastname": "Daley-Campbell",
+                "age": 23,
+                "birth": {
+                    "date": "2001-04-02",
+                    "place": "Clapham Town",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/152971.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 10
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 1,
+                        "lineups": 1,
+                        "minutes": 90,
+                        "number": null,
+                        "position": "Defender",
+                        "rating": "6.300000",
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 22,
+                        "key": 1,
+                        "accuracy": 17
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 14,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 276086,
+                "name": "T. Suengchitthawon",
+                "firstname": "Thanawat",
+                "lastname": "Suengchitthawon",
+                "age": 24,
+                "birth": {
+                    "date": "2000-01-08",
+                    "place": "Bangkok",
+                    "country": "Thailand"
+                },
+                "nationality": "Thailand",
+                "height": "171 cm",
+                "weight": "65 kg",
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/276086.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 2
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 278111,
+                "name": "Shane Aidan Conor Flynn",
+                "firstname": "Shane Aidan Conor",
+                "lastname": "Flynn",
+                "age": 22,
+                "birth": {
+                    "date": "2001-10-14",
+                    "place": "Dublin",
+                    "country": "Republic of Ireland"
+                },
+                "nationality": "Republic of Ireland",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/278111.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 45,
+                        "name": "FA Cup",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/45.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 0
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": null,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": null,
+                        "missed": null,
+                        "saved": null
+                    }
+                },
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 3
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 278116,
+                "name": "T. Maswanhise",
+                "firstname": "Tawanda Jethro",
+                "lastname": "Maswanhise",
+                "age": 22,
+                "birth": {
+                    "date": "2002-11-20",
+                    "place": "Harare",
+                    "country": "Zimbabwe"
+                },
+                "nationality": "Zimbabwe",
+                "height": null,
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/278116.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 39,
+                        "name": "Premier League",
+                        "country": "England",
+                        "logo": "https://media.api-sports.io/football/leagues/39.png",
+                        "flag": "https://media.api-sports.io/flags/gb.svg",
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Attacker",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "player": {
+                "id": 284509,
+                "name": "E. Fitzhugh",
+                "firstname": "Ethan Michael",
+                "lastname": "Fitzhugh",
+                "age": 22,
+                "birth": {
+                    "date": "2002-11-27",
+                    "place": "Northampton",
+                    "country": "England"
+                },
+                "nationality": "England",
+                "height": "174 cm",
+                "weight": null,
+                "injured": false,
+                "photo": "https://media.api-sports.io/football/players/284509.png"
+            },
+            "statistics": [
+                {
+                    "team": {
+                        "id": 46,
+                        "name": "Leicester",
+                        "logo": "https://media.api-sports.io/football/teams/46.png"
+                    },
+                    "league": {
+                        "id": 3,
+                        "name": "UEFA Europa League",
+                        "country": "World",
+                        "logo": "https://media.api-sports.io/football/leagues/3.png",
+                        "flag": null,
+                        "season": 2020
+                    },
+                    "games": {
+                        "appearences": 0,
+                        "lineups": 0,
+                        "minutes": 0,
+                        "number": null,
+                        "position": "Midfielder",
+                        "rating": null,
+                        "captain": false
+                    },
+                    "substitutes": {
+                        "in": 0,
+                        "out": 0,
+                        "bench": 1
+                    },
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": 0,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "yellowred": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
+}
