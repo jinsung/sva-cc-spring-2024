@@ -107,6 +107,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 5 -- Data Visualization with Citibike data
 
+- Presenters: Joe and Heesoo
 - [Try/Catch block](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
 - [Spread operator](https://fjolt.com/article/javascript-three-dots-spread-operator)
 - Data file format (JSON, CSV)
