@@ -114,6 +114,13 @@ Building on the foundational knowledge gained in the first course, this second c
 - [Spread operator](https://fjolt.com/article/javascript-three-dots-spread-operator)
 - Data file format (JSON, CSV)
   - citibike [data](https://s3.amazonaws.com/tripdata/index.html)
+  - Instruction
+    - download [cvs](https://s3.amazonaws.com/tripdata/index.html), unzip and add the csv file to examples/05/00-data-converter/data
+    - open terminal
+    - cd examples/05/00-data-converter
+    - npm install
+    - node citibike.js
+    - (optional) node addBorough.js
 - citibike [data](https://citibikenyc.com/system-data)
 - [football data api](https://rapidapi.com/api-sports/api/api-football)
 - Assignment: Data Viz
