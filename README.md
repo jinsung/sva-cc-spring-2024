@@ -85,7 +85,9 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 3 -- Server side programming with WebSocket
 
-- Presenters: Mina, Inwoo
+- Presenters
+  -  Mina's inspo [1](https://www.instagram.com/tim_rodenbroeker/) [2](https://www.instagram.com/seohyo/?hl=en)
+  -  Inwoo's [inspo](https://generativetype.com/)
 - Node and NPM
   - Install node
   - [What is Node.js](https://nodejs.org/en/about)
@@ -113,20 +115,23 @@ Building on the foundational knowledge gained in the first course, this second c
 - [Try/Catch block](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
 - [Spread operator](https://fjolt.com/article/javascript-three-dots-spread-operator)
 - Data file format (JSON, CSV)
+- Citibike Data converter process (optional)
   - citibike [data](https://s3.amazonaws.com/tripdata/index.html)
   - Instruction
-    - download [cvs](https://s3.amazonaws.com/tripdata/index.html), unzip and add the csv file to examples/05/00-data-converter/data
-    - open terminal
+    - clone this repository.
+    - download a [cvs](https://s3.amazonaws.com/tripdata/index.html) (I downloaded 202311-citibike-tripdata.csv.zip), unzip and add the csv file to ./examples/05/00-data-converter/data
+    - open a terminal
     - cd examples/05/00-data-converter
     - npm install
     - node citibike.js
     - (optional) node addBorough.js
-- citibike [data](https://citibikenyc.com/system-data)
+- citibike
+  - Get a json file (2023-11-06.json or 2023-11-06-borough.json) from ./example/05/data/ to visualize
 - [football data api](https://rapidapi.com/api-sports/api/api-football)
-- Assignment: Data Viz
 
 ### Week 6 -- Physics - Vector / Force
 
+- Presenters: Hee-Jin and Guanyan
 - [Robert Hodgin](http://roberthodgin.com/)
 - [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
 - [Force = Acceleration x Mass](https://editor.p5js.org/jinsung/sketches/K_1gJXsf_)
@@ -136,6 +141,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 7 -- Particle System 1
 
+- Data Viz Assignment Due
 - [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
 - [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
 - [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
