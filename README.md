@@ -103,9 +103,6 @@ Building on the foundational knowledge gained in the first course, this second c
 - Promise, then, async, and await
 - More of Array
   - forEach(), sort(), filter(), map() etc.
-- Vector
-  - Vector vs Point
-  - [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
 
 ### Week 5 -- Data Visualization with Citibike data
 
@@ -127,21 +124,24 @@ Building on the foundational knowledge gained in the first course, this second c
     - (optional) node addBorough.js
 - citibike
   - Get a json file (2023-11-06.json or 2023-11-06-borough.json) from ./example/05/data/ to visualize
-- [football data api](https://rapidapi.com/api-sports/api/api-football)
 
 ### Week 6 -- Physics - Vector / Force
 
 - Presenters: Hee-Jin and Guanyan
 - [Robert Hodgin](http://roberthodgin.com/)
 - [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
+- [football data api](https://rapidapi.com/api-sports/api/api-football)
+- Vector
+  - Vector vs Point
+  - [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
 - [Force = Acceleration x Mass](https://editor.p5js.org/jinsung/sketches/K_1gJXsf_)
 - [Gravity](https://editor.p5js.org/jinsung/sketches/L7CliUcrQ)
 - [Friction](https://editor.p5js.org/jinsung/sketches/K_1gJXsf_)
-- [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
 
 ### Week 7 -- Particle System 1
 
 - Data Viz Assignment Due
+- [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
 - [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
 - [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
 - [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
@@ -152,21 +152,13 @@ Building on the foundational knowledge gained in the first course, this second c
 - [Matter.js](https://brm.io/matter-js/)
 - Physic homework
 
-### Week 9 -- ML Basic
+### Week 9 -- Phsics Engine 2
 
-- Teachable Machine
+### Week 10 -- AI/ML Basic
 
-### Week 10 -- Pre-trained Model
+### Week 11 -- AI/ML: TBD
 
-- ML5
-
-### Week 11 -- Traning Model
-
-- Tensorflow.js
-
-### Week 12 -- TBD
-
-- [stability.ai](https://stability.ai/)
+### Week 12 -- AI/ML: TBD
 
 ### Week 13 -- 1:1
 
