@@ -136,7 +136,8 @@ Building on the foundational knowledge gained in the first course, this second c
   - [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
 - [Force = Acceleration x Mass](https://editor.p5js.org/jinsung/sketches/K_1gJXsf_)
 - [Gravity](https://editor.p5js.org/jinsung/sketches/L7CliUcrQ)
-- [Friction](https://editor.p5js.org/jinsung/sketches/K_1gJXsf_)
+- [Multiple Forces](https://editor.p5js.org/jinsung/sketches/KM9Ksfhn1)
+- [Friction](https://editor.p5js.org/jinsung/sketches/9-jH3bINn)
 
 ### Week 7 -- Particle System 1
 
