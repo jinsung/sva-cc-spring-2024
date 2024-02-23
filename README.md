@@ -127,7 +127,6 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 6 -- Physics - Vector / Force
 
-- Presenters: Hee-Jin and Guanyan
 - [Robert Hodgin](http://roberthodgin.com/)
 - [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
 - [football data api](https://rapidapi.com/api-sports/api/api-football)
@@ -141,6 +140,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 7 -- Particle System 1
 
+- Presenters: Hee-Jin and Guanyan
 - Data Viz Assignment Due
 - [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
 - [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
