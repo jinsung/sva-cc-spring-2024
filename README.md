@@ -140,7 +140,8 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 7 -- Particle System 1
 
-- Presenters: Hee-Jin and Guanyan
+- Presenters: Hee-Jin and
+- [Guanyan](https://happycoding.io/tutorials/p5js/)
 - Data Viz Assignment Due
 - [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
 - [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
