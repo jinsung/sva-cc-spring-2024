@@ -2,12 +2,15 @@ let engine;
 let shapes = [];
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(600, 600);
   rectMode(CENTER);
   engine = Matter.Engine.create();
-  ground = new Rect(engine.world, createVector(width/2, height), 
-    {w:width-20, h:50}, {isStatic: true});
-  shapes.push(ground);
+  const bar1 = new Rect(engine.world, createVector(width * 0.25, height * 0.8), 
+    {w:width * 0.5, h:50}, {isStatic: true, angle: PI/4});
+  const bar2 = new Rect(engine.world, createVector(width * 0.75, height * 0.8), 
+    {w:width * 0.5, h:50}, {isStatic: true, angle: -PI/4});
+  shapes.push(bar1);
+  shapes.push(bar2);
   Matter.Runner.run(engine);
 }
 
