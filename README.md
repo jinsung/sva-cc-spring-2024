@@ -86,8 +86,8 @@ Building on the foundational knowledge gained in the first course, this second c
 ### Week 3 -- Server side programming with WebSocket
 
 - Presenters
-  -  Mina's inspo [1](https://www.instagram.com/tim_rodenbroeker/) [2](https://www.instagram.com/seohyo/?hl=en)
-  -  Inwoo's [inspo](https://generativetype.com/)
+  - Mina's inspo [1](https://www.instagram.com/tim_rodenbroeker/) [2](https://www.instagram.com/seohyo/?hl=en)
+  - Inwoo's [inspo](https://generativetype.com/)
 - Node and NPM
   - Install node
   - [What is Node.js](https://nodejs.org/en/about)
@@ -95,7 +95,7 @@ Building on the foundational knowledge gained in the first course, this second c
   - Server side programming
   - [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
 
-### Week 4 -- ECMAScript6 features 
+### Week 4 -- ECMAScript6 features
 
 - [Free APIs](https://free-apis.github.io/#/categories)
 - What is JSON?
@@ -164,6 +164,8 @@ Building on the foundational knowledge gained in the first course, this second c
 - Presenters: Roy and Progga
 
 ### Week 10 -- AI/ML Basic
+
+- Physic homework due
 
 ### Week 11 -- AI/ML: TBD
 
