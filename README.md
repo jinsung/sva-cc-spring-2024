@@ -140,7 +140,8 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 7 -- Particle System 1
 
-- Presenters: Hee-Jin and
+- Presenters:
+- [Hee-Jin](https://ertdfgcvb.xyz/)
 - [Guanyan](https://happycoding.io/tutorials/p5js/)
 - Data Viz Assignment Due
 - [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
@@ -151,7 +152,6 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 8 -- Phsics Engine
 
-- Presenters: Roy and Progga
 - [Matter.js](https://brm.io/matter-js/)
 - Matter.js basics
   - World, Engine, dynamic and staic Bodies
@@ -160,6 +160,8 @@ Building on the foundational knowledge gained in the first course, this second c
 - Physic homework
 
 ### Week 9 -- Phsics Engine 2
+
+- Presenters: Roy and Progga
 
 ### Week 10 -- AI/ML Basic
 
