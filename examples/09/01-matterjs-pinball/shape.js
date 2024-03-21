@@ -9,6 +9,8 @@ class Shape {
   }
 
   createBody() {
+    // this is a vertual function
+    console.error('please override this function');
   }
 
   display() {
@@ -21,7 +23,8 @@ class Shape {
   }
 
   drawShape() {
-
+    // this is a vertual function
+    console.error('please override this function');
   }
 
   isDead() {
