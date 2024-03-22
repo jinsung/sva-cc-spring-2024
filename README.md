@@ -86,8 +86,8 @@ Building on the foundational knowledge gained in the first course, this second c
 ### Week 3 -- Server side programming with WebSocket
 
 - Presenters
-  -  Mina's inspo [1](https://www.instagram.com/tim_rodenbroeker/) [2](https://www.instagram.com/seohyo/?hl=en)
-  -  Inwoo's [inspo](https://generativetype.com/)
+  - Mina's inspo [1](https://www.instagram.com/tim_rodenbroeker/) [2](https://www.instagram.com/seohyo/?hl=en)
+  - Inwoo's [inspo](https://generativetype.com/)
 - Node and NPM
   - Install node
   - [What is Node.js](https://nodejs.org/en/about)
@@ -95,7 +95,7 @@ Building on the foundational knowledge gained in the first course, this second c
   - Server side programming
   - [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
 
-### Week 4 -- ECMAScript6 features 
+### Week 4 -- ECMAScript6 features
 
 - [Free APIs](https://free-apis.github.io/#/categories)
 - What is JSON?
@@ -140,7 +140,8 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 7 -- Particle System 1
 
-- Presenters: Hee-Jin and
+- Presenters:
+- [Hee-Jin](https://ertdfgcvb.xyz/)
 - [Guanyan](https://happycoding.io/tutorials/p5js/)
 - Data Viz Assignment Due
 - [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
@@ -151,17 +152,22 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 8 -- Phsics Engine
 
-- Presenters: Roy and Progga
 - [Matter.js](https://brm.io/matter-js/)
 - Matter.js basics
   - World, Engine, dynamic and staic Bodies
 - OOP - Inheritance
-- Pinball game
 - Physic homework
 
 ### Week 9 -- Phsics Engine 2
 
+- Presenters: Roy and Progga
+- Pinball game
+- Matter.js Constraint
+- Matter.js Mouse Constraint
+
 ### Week 10 -- AI/ML Basic
+
+- Physic homework due
 
 ### Week 11 -- AI/ML: TBD
 
