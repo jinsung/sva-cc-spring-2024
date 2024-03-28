@@ -160,7 +160,9 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 9 -- Phsics Engine 2
 
-- Presenters: Roy and Progga
+- Presenters: Roy and 
+  - Progga [1](https://www.instagram.com/jzlabs/), [2](https://www.instagram.com/0x0074n0/), [3](https://www.instagram.com/vi_ne_te/), [4](https://affinelayer.com/pixsrv/), [5](https://www.imaginary.org/program/pink-trombone)
+  - Roy
 - Pinball game
 - Matter.js Constraint
 - Matter.js Mouse Constraint
@@ -168,8 +170,13 @@ Building on the foundational knowledge gained in the first course, this second c
 ### Week 10 -- AI/ML Basic
 
 - Physic homework due
+- [AI, ML, Deep Learning](https://docs.google.com/document/d/1hew_j0rq9oWt6ockDzEDyGaRIz-pHS7HFHZyvnZqiKE/)
+- Leaning
+- Deep Learning
+- [Neural network](https://www.3blue1brown.com/lessons/neural-networks)
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
-### Week 11 -- AI/ML: TBD
+### Week 11 -- AI/ML: LLM
 
 ### Week 12 -- AI/ML: TBD
 
