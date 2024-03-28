@@ -156,12 +156,14 @@ Building on the foundational knowledge gained in the first course, this second c
 - Matter.js basics
   - World, Engine, dynamic and staic Bodies
 - OOP - Inheritance
-- Pinball game
 - Physic homework
 
 ### Week 9 -- Phsics Engine 2
 
 - Presenters: Roy and Progga
+- Pinball game
+- Matter.js Constraint
+- Matter.js Mouse Constraint
 
 ### Week 10 -- AI/ML Basic
 

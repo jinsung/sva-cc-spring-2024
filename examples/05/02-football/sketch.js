@@ -1,9 +1,9 @@
 async function setup() {
   createCanvas(400, 400);
   background(200);
-  //const secretResponse = await fetch('./data/secret.json');
-  //const secretJson = await secretResponse.json();
-  const apiKey = 'GET_YOUR_API_KEY'; //secretJson.rapid_api_key;
+  const secretResponse = await fetch('./data/secret.json');
+  const secretJson = await secretResponse.json();
+  const apiKey = secretJson.rapid_api_key;
   const teams = [];
   const standingUrl = 'https://api-football-v1.p.rapidapi.com/v3/standings?season=2020&league=39';
   const options = {
@@ -23,6 +23,7 @@ async function setup() {
     for (let i = 0; i < 5; i++) {
       const teamId = standings[i].team.id;
       const teamurl = `https://api-football-v1.p.rapidapi.com/v3/players?team=${teamId}&season=2020`
+      //const teamRes = await fetch(teamurl);
       const teamRes = await fetch(`./data/team_${teamId}.json`);
       const teamResult = await teamRes.json();
       console.log(teamResult);
