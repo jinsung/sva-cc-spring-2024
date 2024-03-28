@@ -162,7 +162,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 - Presenters: Roy and 
   - Progga [1](https://www.instagram.com/jzlabs/), [2](https://www.instagram.com/0x0074n0/), [3](https://www.instagram.com/vi_ne_te/), [4](https://affinelayer.com/pixsrv/), [5](https://www.imaginary.org/program/pink-trombone)
-  - Roy
+  - Roy [Etienne Jacob](https://bleuje.com/) [Andreas Gysin](https://ertdfgcvb.xyz/)
 - Pinball game
 - Matter.js Constraint
 - Matter.js Mouse Constraint
