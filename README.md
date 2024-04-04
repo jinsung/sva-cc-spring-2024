@@ -184,7 +184,7 @@ Building on the foundational knowledge gained in the first course, this second c
   - Convert strings to numbers (vectorize the text) before feeding into the model
 - Word2Vec
   - Technique in natural language processing (NLP) for obtaining vector representations of words.
-  - [Blog from Jay Alammar](http://jalammar.github.io/illustrated-word2vec/)
+  - [Blog by Jay Alammar](http://jalammar.github.io/illustrated-word2vec/)
 - Universal Sentence Encoder
   - A [model](https://github.com/tensorflow/tfjs-models/tree/master/universal-sentence-encoder) that encodes text into 512-dimensional embeddings. The model is based on the Transformer
   - [Demo](https://storage.googleapis.com/tfjs-models/demos/toxicity/index.html)
@@ -198,9 +198,10 @@ Building on the foundational knowledge gained in the first course, this second c
   - Demo
 - LLM
   - GPT - “Generative Pretrained Transformer”
+  - [ChatGPT is a blur JPEG of the web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web) by Ted Chiang
   - Use Transformer architecture, not RNN, LSTM
   - Hugging Face - [Transformer tutorial](https://huggingface.co/learn/nlp-course/chapter1/1)
-  - [Intro to LLM](https://www.youtube.com/watch?v=zjkBMFhNj_g) from Andrej Karpathy
+  - [Intro to LLM](https://www.youtube.com/watch?v=zjkBMFhNj_g) by Andrej Karpathy
   - OpenAI [API](https://openai.com/blog/openai-api)
   - Google Cloud Platform [Vertex AI API](https://cloud.google.com/vertex-ai/docs/reference/rest)
   - Google AI Studio
