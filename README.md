@@ -208,7 +208,7 @@ Building on the foundational knowledge gained in the first course, this second c
     - [Structured](https://aistudio.google.com/app/prompts/1yDpnotfAlgPn1Y-PBsMLTJTuluavdxsc)
 
 
-### Week 12 -- AI/ML: Gen AI at the moment
+### Week 12 -- AI/ML: GenAI at the moment
 
 - This is a moving target!
 - Image
