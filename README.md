@@ -212,6 +212,7 @@ Building on the foundational knowledge gained in the first course, this second c
 ### Week 12 -- AI/ML: GenAI at the moment
 
 - This is a moving target!
+- [Hugging Face](https://huggingface.co/)
 - Chatbot
   - [50 most visited tool](https://medium.com/@mkt.thdat/ai-industry-8988fa965acb)
   - [chatbot](https://chat.openai.com/) vs [targeted](https://quillbot.com/)
