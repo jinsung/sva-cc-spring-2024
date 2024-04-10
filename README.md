@@ -212,6 +212,9 @@ Building on the foundational knowledge gained in the first course, this second c
 ### Week 12 -- AI/ML: GenAI at the moment
 
 - This is a moving target!
+- Chatbot
+  - [50 most visited tool](https://medium.com/@mkt.thdat/ai-industry-8988fa965acb)
+  - [chatbot](https://chat.openai.com/) vs [targeted](https://quillbot.com/)
 - Image
   - [MidJourney](https://www.midjourney.com/)
   - [Dall-e](https://openai.com/dall-e-3)
@@ -238,9 +241,6 @@ Building on the foundational knowledge gained in the first course, this second c
   - [Luma](https://lumalabs.ai/)
   - [LucidDreamer](https://github.com/EnVision-Research/LucidDreamer)
   - [DreamCraft3D - Image to 3d](https://mrtornado24.github.io/DreamCraft3D/)
-- Chatbot
-  - [50 most visited tool](https://medium.com/@mkt.thdat/ai-industry-8988fa965acb)
-  - [chatbot](https://chat.openai.com/) vs [targeted](https://quillbot.com/)
 - Companion
   - [Falling in Love with Replika?](https://replika.ai/)
   - [Growth](https://a16z.com/how-are-consumers-using-generative-ai/)
