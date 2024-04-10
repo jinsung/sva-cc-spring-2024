@@ -208,7 +208,49 @@ Building on the foundational knowledge gained in the first course, this second c
     - [Structured](https://aistudio.google.com/app/prompts/1yDpnotfAlgPn1Y-PBsMLTJTuluavdxsc)
 
 
-### Week 12 -- AI/ML: TBD
+### Week 12 -- AI/ML: Gen AI at the moment
+
+- This is a moving target!
+- Image
+  - [MidJourney](https://www.midjourney.com/)
+  - [Dall-e](https://openai.com/dall-e-3)
+  - [Imagen](https://deepmind.google/technologies/imagen-2/)
+  - [Paint to image](https://www.krea.ai/apps/image/realtime)
+  - [Image enhancer](https://magnific.ai/)
+  - [Face to all](https://huggingface.co/spaces/multimodalart/face-to-all)
+- Video
+  - [Genmo](https://www.genmo.ai/)
+  - [Runway](https://research.runwayml.com/gen2)
+  - [OpenAI Sora](https://openai.com/sora)
+  - [Pika](https://pika.art/home)
+  - [Emu/Meta - Generative Video Editing](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)
+  - [Animate Anyone](https://humanaigc.github.io/animate-anyone/)
+  - [Masic Animate](https://showlab.github.io/magicanimate/)
+- Audio
+  - [Gen audio story](https://audiobox.metademolab.com/maker)
+  - [MusicGen Model](https://huggingface.co/spaces/facebook/MusicGen)
+  - [VEED](https://www.veed.io/tools/ai-music-generator)
+  - [Suno - Make a song about ...](https://www.suno.ai/)
+  - [ElevenLabs - Voice to voice](https://elevenlabs.io/voice-changer)
+- Text to 3D
+  - [Spline](https://spline.design/ai)
+  - [Luma](https://lumalabs.ai/)
+  - [LucidDreamer](https://github.com/EnVision-Research/LucidDreamer)
+  - [DreamCraft3D - Image to 3d](https://mrtornado24.github.io/DreamCraft3D/)
+- Chatbot
+  - [50 most visited tool](https://medium.com/@mkt.thdat/ai-industry-8988fa965acb)
+  - [chatbot](https://chat.openai.com/) vs [targeted](https://quillbot.com/)
+- Companion
+  - [Falling in Love with Replika?](https://replika.ai/)
+  - [Growth](https://a16z.com/how-are-consumers-using-generative-ai/)
+  - [Meta AI](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/)
+  - [AI Avartar](https://www.synthesia.io/)
+  - [Fashion Model](https://lalaland.ai/)
+- Get Started
+  - [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
+  - [Hugging Face - Diffusers](https://huggingface.co/docs/diffusers/en/index)
+  - [Stable Diffusion Model](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
+  - [Hugging Face - Spaces](https://huggingface.co/spaces)
 
 ### Week 13 -- 1:1
 
