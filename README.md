@@ -243,7 +243,7 @@ Building on the foundational knowledge gained in the first course, this second c
   - [DreamCraft3D - Image to 3d](https://mrtornado24.github.io/DreamCraft3D/)
 - Companion
   - [Falling in Love with Replika?](https://replika.ai/)
-  - [Growth](https://a16z.com/how-are-consumers-using-generative-ai/)
+  - [AI Companion Growth](https://a16z.com/how-are-consumers-using-generative-ai/)
   - [Meta AI](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/)
   - [AI Avartar](https://www.synthesia.io/)
   - [Fashion Model](https://lalaland.ai/)
