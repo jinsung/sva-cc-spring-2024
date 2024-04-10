@@ -254,6 +254,13 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 13 -- 1:1
 
+- [Schedule Sheet](https://docs.google.com/spreadsheets/d/1M1V0xIxizzpPIWnzNaCV1UlgNS9hcNNrR3gehgrsGKk/edit#gid=0)
+
 ### Week 14 -- 1:1
 
+- [Schedule Sheet](https://docs.google.com/spreadsheets/d/1rHz7-0sWWh_5ZBkvxH-aalc1QfWJBs7eaccaAzT6Gu0/edit#gid=0)
+
 ### Week 15 -- Final Presentation
+
+- Create a screen record your work, save in google drive, and send the link for the screenrecording.
+- Send your code and screen record to my school email.
