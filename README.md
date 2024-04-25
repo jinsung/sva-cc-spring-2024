@@ -262,6 +262,7 @@ Building on the foundational knowledge gained in the first course, this second c
 ### Week 14 -- 1:1
 
 - [Schedule Sheet](https://docs.google.com/spreadsheets/d/1rHz7-0sWWh_5ZBkvxH-aalc1QfWJBs7eaccaAzT6Gu0/edit#gid=0)
+- [Zoom Meeting](https://sva.zoom.us/j/85449655821)
 
 ### Week 15 -- Final Presentation
 
